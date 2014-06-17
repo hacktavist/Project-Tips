@@ -34,7 +34,7 @@ public class CharacterController2d : MonoBehaviour {
     _transform = transform;
     _localScale = transform.localScale;
     _boxCollider = GetComponent<BoxCollider2D>();
-    var colliderWidth = _boxCollider.size.x * Mathf.Abs(transform.localScale.x)-(2*SkinWidth);
+    var colliderWidth = _boxCollider.size.x * Mathf.Abs(transform.localScale.x)-(2 * SkinWidth);
 
     _horizontalDistanceBetweenRays = colliderWidth / (TotVerticalRays - 1);
 
@@ -43,11 +43,11 @@ public class CharacterController2d : MonoBehaviour {
   }
 
   public void AddForce(Vector2 force) {
-    _velocity = force;
+    _velocity += force;
   }
 
   public void SetForce(Vector2 force) {
-    _velocity += force;
+    _velocity = force;
   }
 
   public void SetHorizontalForce(float x) {
@@ -107,9 +107,10 @@ public class CharacterController2d : MonoBehaviour {
     var size = new Vector2(_boxCollider.size.x * Mathf.Abs(_localScale.x), _boxCollider.size.y * Mathf.Abs(_localScale.y)) / 2;
     var center = new Vector2(_boxCollider.center.x * _localScale.x, _boxCollider.center.y * _localScale.y);
 
-    _raycastTopLeft = transform.position + new Vector3(center.x - size.x - SkinWidth, center.y + size.y + SkinWidth);
-    _raycastBottomLeft = transform.position + new Vector3(center.x - size.x + SkinWidth, center.y - size.y + SkinWidth);
-    _raycastBottomRight = transform.position + new Vector3(center.x + size.x - SkinWidth, center.y - size.y + SkinWidth);
+    _raycastTopLeft = _transform.position + new Vector3(center.x - size.x + SkinWidth, center.y + size.y - SkinWidth);
+    _raycastBottomRight = _transform.position + new Vector3(center.x + size.x - SkinWidth, center.y - size.y + SkinWidth);
+    _raycastBottomLeft = _transform.position + new Vector3(center.x - size.x + SkinWidth, center.y - size.y + SkinWidth);
+
 
   }
 
