@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 2d413c4bbdaac5b409181318efe09e4c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Left Corner 0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7014
+        width: 703
+        height: 732
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Corner 1
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 7014
+        width: 708
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slope 0
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 7014
+        width: 704
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Corner 1
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 7014
+        width: 704
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Corner 0
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 7014
+        width: 704
+        height: 732
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Corner Dead Grass 0
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 7014
+        width: 704
+        height: 732
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Corner Dead Grass 1
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 7014
+        width: 708
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slope Dead Grass 0
+      rect:
+        serializedVersion: 2
+        x: 7263
+        y: 7014
+        width: 703
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Corner Dead Grass 1
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 7014
+        width: 703
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Corner Dead Grass 0
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 7014
+        width: 703
+        height: 732
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Top Partial Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 6259
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Full Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 6259
+        width: 708
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slope 0
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 6259
+        width: 704
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Full Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 6259
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Top Partial Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 6259
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Top Partial Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 6259
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Full Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 6259
+        width: 708
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slope Dead Grass 0
+      rect:
+        serializedVersion: 2
+        x: 7263
+        y: 6259
+        width: 703
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Full Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 6259
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Top Partial Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 6259
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Bottom Partial Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5489
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Corner Grass
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 5489
+        width: 708
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Full Grass
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 5489
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Corner Grass
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 5489
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Bottom Partial Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 5489
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Bottom Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 5489
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Corner Dead Grass
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 5489
+        width: 708
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Full Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 7263
+        y: 5489
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Corner Dead Grass
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 5489
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Bottom Partial Dead Grass Patch
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 5489
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Grass Big
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4715
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Grass Small
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 4715
+        width: 708
+        height: 356
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dirt
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 4715
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Grass Small
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 4715
+        width: 704
+        height: 356
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Grass Big
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 4715
+        width: 704
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Dead Grass Big
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 4715
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Dead Grass Small
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 4715
+        width: 703
+        height: 356
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Dirt
+      rect:
+        serializedVersion: 2
+        x: 7263
+        y: 4715
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Dead Grass Small
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 4715
+        width: 703
+        height: 356
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Dead Grass Big
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 4715
+        width: 703
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Dirt Small
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4306
+        width: 703
+        height: 357
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Dirt Big
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 3955
+        width: 708
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Dirt Big
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 3955
+        width: 704
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Dirt Small
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 4306
+        width: 704
+        height: 357
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Dirt Small
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 4306
+        width: 704
+        height: 357
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Slant Dirt Big
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 3955
+        width: 708
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Dirt Big
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 3955
+        width: 703
+        height: 708
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Slant Dirt Small
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 4306
+        width: 703
+        height: 357
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Dirt Tri
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3195
+        width: 703
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Dirt Tri
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 3195
+        width: 708
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Narrow Ledge Left Grass
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3542
+        width: 704
+        height: 380
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Narrow Ledge Mid Grass
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 3542
+        width: 704
+        height: 356
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Narrow Ledge Right Grass
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 3542
+        width: 704
+        height: 380
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Dirt Right Tri
+      rect:
+        serializedVersion: 2
+        x: 5756
+        y: 3195
+        width: 704
+        height: 703
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Dirt Left Tri
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 3191
+        width: 703
+        height: 707
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Narrow Ledge Dead Grass Left
+      rect:
+        serializedVersion: 2
+        x: 7263
+        y: 3542
+        width: 703
+        height: 380
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Narrow Ledge Dead Grass Mid
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 3542
+        width: 703
+        height: 356
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Narrow Ledge Dead Grass Right
+      rect:
+        serializedVersion: 2
+        x: 8755
+        y: 3542
+        width: 703
+        height: 380
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Grass
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1660
+        width: 518
+        height: 632
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Healthy Grass
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1660
+        width: 513
+        height: 627
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grave Stone 0
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1950
+        width: 337
+        height: 342
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grave Stone 1
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1950
+        width: 328
+        height: 475
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grave Stone 2
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1746
+        width: 456
+        height: 665
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skull
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 2169
+        width: 261
+        height: 247
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jackolantern
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2012
+        width: 316
+        height: 309
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow Sign
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 1912
+        width: 371
+        height: 347
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Question Mark Sign
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 1912
+        width: 404
+        height: 437
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X Sign
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 1912
+        width: 390
+        height: 437
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skull and Crossbones Sign
+      rect:
+        serializedVersion: 2
+        x: 5372
+        y: 1912
+        width: 365
+        height: 437
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Fence
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 1950
+        width: 504
+        height: 314
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid Fence
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 1950
+        width: 708
+        height: 314
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Fence
+      rect:
+        serializedVersion: 2
+        x: 7206
+        y: 1950
+        width: 503
+        height: 314
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ribs
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 2002
+        width: 147
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bone
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2012
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pelvis
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1993
+        width: 181
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crate
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1114
+        width: 446
+        height: 447
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fat Tree
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 397
+        width: 1278
+        height: 1159
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skinny Tree
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 406
+        width: 1097
+        height: 1307
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ladder Top
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 1404
+        width: 404
+        height: 380
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Deadly Saw
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 159
+        width: 1635
+        height: 1658
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spikes
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 427
+        width: 704
+        height: 499
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ladder Mid
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 667
+        width: 404
+        height: 704
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ladder Bottom
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 268
+        width: 404
+        height: 376
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
